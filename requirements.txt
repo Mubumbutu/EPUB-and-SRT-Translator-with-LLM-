@@ -1,0 +1,6 @@
+PyQt6
+ebooklib
+beautifulsoup4
+requests
+tiktoken
+deepl
